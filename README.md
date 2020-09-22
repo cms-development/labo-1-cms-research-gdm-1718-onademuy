@@ -1,3 +1,4 @@
+### Labo 1 - Reasearch CMS - Stasseyns Jonas en Demuytere Ona
 # Fork CMS
 
 Fork CMS is een non-hosted Content Management System. Het is opgericht in 2010 door het Gents developmentbedrijf [SumoCoders]. De core-developer van Fork CMS is Jelmer Prins. Sinds de oprichting zijn er 147 releases doorgevoerd. 
