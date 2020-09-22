@@ -14,6 +14,8 @@ Als we het over de technische specificaties hebben van Fork CMS, kunnen we meede
   - HTML& CSS
   - TSQL
   - Smarty
+  
+Er kan afgeleid worden dat voornamelijk PHP gebruikt wordt, hoewel het waarschijnlijk volledig in PHP geschreven is en andere talen zoals HTML en CSS enkel voor de frontend gebruikt worden.
  
 Daarnaast maakt men gebruik van packages, libraries, frameworks en/ of tools, zijnde:
   - Gulp
@@ -22,9 +24,9 @@ Daarnaast maakt men gebruik van packages, libraries, frameworks en/ of tools, zi
   - Doctrine
   - Symfony
 
-De hosting gebeurt via Apache en NGinx. (verduidelijken Jonas want is een non-hosted tool)
+Aangezien Fork CMS een Non-hosted tool is, dient de gebruiker hier zelf voor te zorgen. En aangezien het CMS volledig in php geschreven is volstaat het om deze te hosten op een simpele HTTP-server zoals een Apache of NGinx server.
 
-Het doelpubliek bij Fork CMS, bestaat vooral uit de marketing- en communicatiesector. Dit CMS wordt beheerd door SumoCoders.
+Het doelpubliek bij Fork CMS, bestaat vooral uit de marketing- en communicatiesector. Dit CMS wordt beheerd door SumoCoders. Ook zal SumoCoders Fork CMS leveren aan hun klanten wanneer zij een CMS vragen.
 
 Als laatste is dit de top 3 van bekendste sites, gerealiseerd door middel van Fork CMS.
   - https://www.citytrip.be/
